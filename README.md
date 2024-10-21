@@ -1,1 +1,1 @@
-# Terraform-simple-static-web-app-deploy-to-Azure
+# Deploy static web app to azure using Terraform
